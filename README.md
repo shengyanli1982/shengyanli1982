@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Shengyan Lee
 
-Hi there, I'm Shengyan lee, a `Kubernetes` senior back-end services developer and consultant.
+A `Kubernetes` senior back-end services developer and consultant.
 
 ### Glad to see you here!
 
