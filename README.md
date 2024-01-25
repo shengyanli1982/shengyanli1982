@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Hi there, I'm Shengyan lee, a `kubernetes` senior back-end services developer and consultant.
+Hi there, I'm Shengyan lee, a `Kubernetes` senior back-end services developer and consultant.
 
 ### Glad to see you here!
 
-I'm an engineer focused with `kubernetes` and `golang`. most of my work is design and implement `kubernetes` back-end services and architecture optimization. So developing use `golang` is fond of me.
+I'm an engineer focused with `Kubernetes` and `Golang`. most of my work is design and implement `Kubernetes` back-end services and architecture optimization. So developing use `Golang` is fond of me.
 
 -   As a `developer`, I am interested in the implementation of some details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
