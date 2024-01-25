@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**shengyanli1982/shengyanli1982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there, I'm Shengyan lee, a `kubernetes` senior back-end services developer and consultant.
 
-Here are some ideas to get you started:
+### Glad to see you here!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineer focused with `kubernetes` and `golang`. most of my work is design and implement `kubernetes` back-end services and architecture optimization. So developing use `golang` is fond of me.
+
+-   As a `developer`, I am interested in the implementation of some details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+-   As a `consultant`, I believe that the best way to learn is to teach. I like to share my knowledge with others and grow with them. I am also a `blogger`, I like to write some articles to share my experience and thoughts.
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shengyanli1982&show_icons=true&count_private=true&include_all_commits=true"/>
+</p>
