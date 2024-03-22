@@ -1,25 +1,34 @@
 ### Hi there, I'm Shengyan Lee
 
-A senior `Kubernetes` back-end services developer and consultant.
+I am a senior back-end services `developer` and `consultant` with expertise in `Kubernetes` and `Golang`. My primary focus is designing and implementing `Kubernetes` back-end services and optimizing architecture.
+
+---
 
 ### Glad to see you here!
 
-I'm an engineer focused with `Kubernetes` and `Golang`. most of my work is design and implement `Kubernetes` back-end services and architecture optimization. So developing use `Golang` is fond of me.
+As a `developer`, I am passionate about the implementation of intricate details and creating solutions that have a positive impact on the world.
 
--   As a `Developer`, I am interested in the implementation of some details, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
--   As a `Consultant`, I believe that the best way to learn is to teach. I like to share my knowledge with others and grow with them. I am also a `Blogger`, I like to write some articles to share my experience and thoughts.
+As a `consultant`, I believe in the power of teaching and sharing knowledge. I enjoy writing articles to share my experiences and thoughts.
 
 :house: **Talking about Personal Stuffs:**
 
--   🔭 I’m currently working for a publicly traded IT company.
--   🌱 I’m currently learning `MachineLearning` and `Finance`.
--   👯 I hope I can write some useful code to help people who need it.
--   💬 Ask me about anything, I am happy to help.
--   📫 How to reach me: shengyanlee36@gmail.com
+-   🔭 I am currently working for a publicly traded IT company.
+-   🌱 I am currently learning Machine Learning and Finance.
+-   👯 I hope to write useful code to help those in need.
+-   💬 Feel free to ask me anything; I am here to help.
+-   📫 You can reach me at shengyanlee36@gmail.com.
 
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shengyanli1982&show_icons=true&count_private=true&include_all_commits=true"/>
 </p>
+
+#### If you like my work, please consider giving it a ⭐️. Thanks!
+
+---
+
+<div>
+<h3>QQ:</h3>
+<img src="assets/qq-qr-code.png" alt="QQ" width="350" height="350" style="display: inline-block;"/>
+</div>
