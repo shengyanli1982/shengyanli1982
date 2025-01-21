@@ -25,10 +25,3 @@ As a `consultant`, I believe in the power of teaching and sharing knowledge. I e
 </p>
 
 #### If you like my work, please consider giving it a ⭐️. Thanks!
-
----
-
-<div>
-<h3>QQ:</h3>
-<img src="assets/qq-qr-code.png" alt="QQ" width="350" height="350" style="display: inline-block;"/>
-</div>
